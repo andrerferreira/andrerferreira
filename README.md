@@ -2,19 +2,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/andrerferreira?style=social)
 
 
-### Hi there 👋
+# Hello there, thank you for visiting my profile!
 
-<!--
-**andrerferreira/andrerferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📕 Latest Blog Posts
 
-Here are some ideas to get you started:
+[Technical debt control and security enforcement. A .gitignore tale](https://andreferreira.website/articles/1/technical-debt-control-and-security-enforcement-a-gitignore-tale)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can find me at
+
+[<img src="https://img.shields.io/badge/website-white.svg?&style=for-the-badge" height="25"/>](https://andreferreira.website)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/deveras77)
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/andreraposoferreira/)
