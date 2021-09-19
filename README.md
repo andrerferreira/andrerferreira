@@ -1,3 +1,7 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andrerferreira.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/andrerferreira?style=social)
+
+
 ### Hi there 👋
 
 <!--
