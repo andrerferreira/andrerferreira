@@ -1,8 +1,13 @@
 # Hello there, thank you for visiting my profile!
 
-## Latest Blog Posts
+## Latest Blog Entries
 
 [Technical debt control and security enforcement. A .gitignore tale](https://andreferreira.website/articles/1/technical-debt-control-and-security-enforcement-a-gitignore-tale)
+[How to implement a .gitIgnore whitelist](https://andreferreira.website/tutorials/1/how-to-implement-a-gitignore-whitelist)
+
+## Published security tools
+
+Have a look at this [repository](https://github.com/andrerferreira/security-tools)
 
 ## You can find me at
 
